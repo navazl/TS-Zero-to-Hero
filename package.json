@@ -1,0 +1,12 @@
+{
+  "name": "TS-Zero-to-Hero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/typescript": "^2.0.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  }
+}
